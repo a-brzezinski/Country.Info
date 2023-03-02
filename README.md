@@ -2,6 +2,8 @@
 
 Application build to check informations about all countries in the world. App fetch data from API [RestCountries](https://restcountries.com/).
 
+[Live Demo](https://appinfocountry.netlify.app/)
+
 ## Stack
 
 ## Frontend
